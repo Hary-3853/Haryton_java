@@ -1,3 +1,4 @@
+//CT101/G/19892/23
 import java.util.Scanner;
 
 // Define a class to represent an employee
